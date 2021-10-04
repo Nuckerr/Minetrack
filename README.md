@@ -35,6 +35,7 @@ You can find a list of community hosted instances below. Want to be listed here?
 * https://minecraft-stats.de
 * https://minetrack.geyserconnect.net
 * https://track.rmly.dev
+* https://stats.nucker.me
 
 ## Updates
 For updates and release notes, please read the [CHANGELOG](docs/CHANGELOG.md).
